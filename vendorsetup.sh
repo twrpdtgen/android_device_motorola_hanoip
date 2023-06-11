@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_hanoip-user
-add_lunch_combo omni_hanoip-userdebug
-add_lunch_combo omni_hanoip-eng
+add_lunch_combo twrp_hanoip-user
+add_lunch_combo twrp_hanoip-userdebug
+add_lunch_combo twrp_hanoip-eng
